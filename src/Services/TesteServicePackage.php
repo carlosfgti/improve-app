@@ -6,6 +6,6 @@ class TesteServicePackage
 {
     public function teste()
     {
-        echo 'Teste Dentro do package Atualizado';
+        echo 'Teste Dentro do package Atualizado - Updated';
     }
 }
