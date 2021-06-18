@@ -1,0 +1,19 @@
+{
+    "name": "carlosfgti/improve-app",
+    "description": "Common files",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Ferreira",
+            "email": "carlos@especializati.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Carlosfgti\\ImproveApp\\": "src/"
+        }
+    },
+    "require": {}
+}
